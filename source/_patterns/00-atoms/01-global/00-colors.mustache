@@ -1,0 +1,16 @@
+{{# colors }}
+	{{# title }}
+		<h2>{{ title }}</h2>
+	{{/ title }}
+		<ul class="sg-colors">
+		{{# items }}
+			<li>
+				<span class="sg-swatch" style="background: {{ color }};"></span>
+				<span class="sg-label">{{ color }}</span>
+				{{# label }}
+					<code>{{ label }}</code>
+				{{/ label }}
+			</li>
+		{{/ items }}
+		</ul>
+{{/ colors }}
