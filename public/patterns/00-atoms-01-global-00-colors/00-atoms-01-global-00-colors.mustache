@@ -1,16 +1,12 @@
 {{# colors }}
-	{{# title }}
-		&lt;h2&gt;{{ title }}&lt;/h2&gt;
-	{{/ title }}
-		&lt;ul class=&quot;sg-colors&quot;&gt;
-		{{# items }}
-			&lt;li&gt;
-				&lt;span class=&quot;sg-swatch&quot; style=&quot;background: {{ color }};&quot;&gt;&lt;/span&gt;
-				&lt;span class=&quot;sg-label&quot;&gt;{{ color }}&lt;/span&gt;
-				{{# label }}
-					&lt;code&gt;{{ label }}&lt;/code&gt;
-				{{/ label }}
-			&lt;/li&gt;
-		{{/ items }}
-		&lt;/ul&gt;
+	{{# color-group }}&lt;h2&gt;{{ color-group }}&lt;/h2&gt;{{/ color-group }}
+	&lt;ul class=&quot;sg-colors&quot;&gt;
+	{{# color-items }}
+		&lt;li&gt;
+			&lt;span class=&quot;sg-swatch&quot; style=&quot;background: {{ color }};&quot;&gt;&lt;/span&gt;
+			&lt;span class=&quot;sg-label&quot;&gt;{{ color }}&lt;/span&gt;
+			{{# variable }}&lt;code&gt;{{ variable }}&lt;/code&gt;{{/ variable }}
+		&lt;/li&gt;
+	{{/ color-items }}
+	&lt;/ul&gt;
 {{/ colors }}
