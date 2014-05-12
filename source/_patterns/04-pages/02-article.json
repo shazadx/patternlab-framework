@@ -1,6 +1,8 @@
 {
 	"title" : "Top 10 Trails You Have To Hike Before You Die",
-	"bodyClass": "article",
+	"cl" : {
+		"body": "article"
+	},
 	"author" : {
 		"first-name" : "Julianne",
 		"last-name" : "McCormick"

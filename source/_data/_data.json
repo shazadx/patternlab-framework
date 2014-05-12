@@ -1,135 +1,135 @@
 {
-	"title" : "Pattern Lab",
-	"htmlClass": "pl",
-	"bodyClass": "body",
-	"img": {
-		"logo": {
-			"src": "../../local/img/logo.png",
-			"alt": "Logo Alt Text"
-		},
-		"landscape-4x3": {
-			"src": "../../local/img/fpo_4x3.png",
-			"alt": "4x3 Image"
-		},
-		"landscape-16x9": {
-			"src": "../../local/img/fpo_16x9.png",
-			"alt": "16x9 Image"
-		},
-		"square": {
-			"src": "../../local/img/fpo_square.png",
-			"alt": "Square Thumbnail"
-		},
-		"avatar" : {
-			"src" : "../../local/img/fpo_avatar.png",
-			"alt" : "Person Name"
-		},
-		"rectangle": {
-			"src": "http://placeimg.com/400/300/tech",
-			"alt": "Rectangle"
-		}
-	},
-	"headline" : {
-		"short" : "Lorem ipsum dolor sit (37 characters)",
-		"medium" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. (72 characters)"
-	},
-	"excerpt" : {
-		"short" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-		"medium" : "Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh.",
-		"long" : "Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum."
-	},
-	"nav" : {
-		"link" : "link.pages-homepage"
-	},
-	"description" : "So, setting about it as methodically as men might smoke out a wasps' nest, the Martians spread this strange stifling vapour over the Londonward country. The horns of the crescent slowly moved apart, until at last they formed a line from Hanwell to Coombe and Malden. All night through their destructive tubes advanced.",
-	"fonts" : [
-		{
-			"type": "Primary",
-			"styles" : {
-				"normal" : "\"HelveticaNeue\", \"Helvetica\", \"Arial\", sans-serif;",
-				"italic" : "\"HelveticaNeue\", \"Helvetica\", \"Arial\", sans-serif;",
-				"bold" : "\"HelveticaNeue\", \"Helvetica\", \"Arial\", sans-serif;"
-			}
-		},
-		{
-			"type": "Secondary",
-			"styles" : {
-				"class" : "font-secondary",
-				"normal" : "Georgia, Times, \"Times New Roman\", serif;",
-				"italic" : "Georgia, Times, \"Times New Roman\", serif;",
-				"bold" : "Georgia, Times, \"Times New Roman\", serif;"
-			}
-		}
-	],
-	"colors" :  [
-		{
-			"color-group": "",
-			"color-items": [
-				{ "variable" : "", "color" : "#ff0000" },
-				{ "variable" : "", "color" : "#00ff00" },
-				{ "variable" : "", "color" : "#0000ff" },
-				{ "variable" : "", "color" : "#ffff00" },
-				{ "variable" : "", "color" : "#00ffff" },
-				{ "variable" : "", "color" : "#ff00ff" },
-				{ "variable" : "", "color" : "#ffffff" },
-				{ "variable" : "", "color" : "#808080" },
-				{ "variable" : "", "color" : "#000000" }
-			]
-		}
-	],
-	"url" : "#",
-	"name" : {
-		"first": "Lacy",
-		"firsti": "L",
-		"middle": "Tommie",
-		"middlei": "T",
-		"last": "Way",
-		"lasti": "W"
-	},
-	"year" : {
-		"long": "2013",
-		"short": "13"
-	},
-	"month" : {
-		"long": "February",
-		"short": "Feb",
-		"digit": "02"
-	},
-	"dayofweek" : {
-		"long": "Monday",
-		"short": "Mon"
-	},
-	"day" : {
-		"long": "10",
-		"short": "10",
-		"ordinal": "th"
-	},
-	"hour" : {
-		"long": "01",
-		"short": "1",
-		"military": "13",
-		"ampm": "pm"
-	},
-	"minute" : {
-		"long": "20",
-		"short": "20"
-	},
-	"seconds" : "31",
-	"author" : {
-		"first-name": "Author",
-		"last-name": "Name"
-	},
-	"hero": true,
-	"emergency" : false,
-	"touts" : [
-		{ },
-		{ },
-		{ }
-	],
-	"latest-posts" : [
-		{ },
-		{ },
-		{ },
-		{ },
-		{ }
-	]
+  "title" : "Pattern Lab",
+  "cl" : {
+    "html": "pl",
+    "body": "body",
+    "logo": "logo"
+  },
+  "img": {
+    "logo": {
+      "src": "../../local/img/logo.png",
+      "alt": "Logo Alt Text"
+    },
+    "landscape-4x3": {
+      "src": "../../local/img/fpo_4x3.png",
+      "alt": "4x3 Image"
+    },
+    "landscape-16x9": {
+      "src": "../../local/img/fpo_16x9.png",
+      "alt": "16x9 Image"
+    },
+    "square": {
+      "src": "../../local/img/fpo_square.png",
+      "alt": "Square Thumbnail"
+    },
+    "avatar" : {
+      "src" : "../../local/img/fpo_avatar.png",
+      "alt" : "Person Name"
+    },
+    "rectangle": {
+      "src": "http://placeimg.com/400/300/tech",
+      "alt": "Rectangle"
+    }
+  },
+  "headline" : {
+    "short" : "Lorem ipsum dolor sit (37 characters)",
+    "medium" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. (72 characters)"
+  },
+  "excerpt" : {
+    "short" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+    "medium" : "Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh.",
+    "long" : "Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum."
+  },
+  "description" : "So, setting about it as methodically as men might smoke out a wasps' nest, the Martians spread this strange stifling vapour over the Londonward country. The horns of the crescent slowly moved apart, until at last they formed a line from Hanwell to Coombe and Malden. All night through their destructive tubes advanced.",
+  "fonts" : [
+    {
+      "type": "Primary",
+      "styles" : {
+        "normal" : "\"HelveticaNeue\", \"Helvetica\", \"Arial\", sans-serif;",
+        "italic" : "\"HelveticaNeue\", \"Helvetica\", \"Arial\", sans-serif;",
+        "bold" : "\"HelveticaNeue\", \"Helvetica\", \"Arial\", sans-serif;"
+      }
+    },
+    {
+      "type": "Secondary",
+      "styles" : {
+        "class" : "font-secondary",
+        "normal" : "Georgia, Times, \"Times New Roman\", serif;",
+        "italic" : "Georgia, Times, \"Times New Roman\", serif;",
+        "bold" : "Georgia, Times, \"Times New Roman\", serif;"
+      }
+    }
+  ],
+  "colors" : [
+    {
+      "color-group": "",
+      "color-items": [
+        { "variable" : "", "color" : "#ff0000" },
+        { "variable" : "", "color" : "#00ff00" },
+        { "variable" : "", "color" : "#0000ff" },
+        { "variable" : "", "color" : "#ffff00" },
+        { "variable" : "", "color" : "#00ffff" },
+        { "variable" : "", "color" : "#ff00ff" },
+        { "variable" : "", "color" : "#ffffff" },
+        { "variable" : "", "color" : "#808080" },
+        { "variable" : "", "color" : "#000000" }
+      ]
+    }
+  ],
+  "url" : "#",
+  "name" : {
+    "first": "Lacy",
+    "firsti": "L",
+    "middle": "Tommie",
+    "middlei": "T",
+    "last": "Way",
+    "lasti": "W"
+  },
+  "year" : {
+    "long": "2013",
+    "short": "13"
+  },
+  "month" : {
+    "long": "February",
+    "short": "Feb",
+    "digit": "02"
+  },
+  "dayofweek" : {
+    "long": "Monday",
+    "short": "Mon"
+  },
+  "day" : {
+    "long": "10",
+    "short": "10",
+    "ordinal": "th"
+  },
+  "hour" : {
+    "long": "01",
+    "short": "1",
+    "military": "13",
+    "ampm": "pm"
+  },
+  "minute" : {
+    "long": "20",
+    "short": "20"
+  },
+  "seconds" : "31",
+  "author" : {
+    "first-name": "Author",
+    "last-name": "Name"
+  },
+  "hero": true,
+  "emergency" : false,
+  "touts" : [
+    { },
+    { },
+    { }
+  ],
+  "latest-posts" : [
+    { },
+    { },
+    { },
+    { },
+    { }
+  ]
 }

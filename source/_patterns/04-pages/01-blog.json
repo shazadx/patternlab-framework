@@ -1,6 +1,8 @@
 {
 	"title" : "Blog",
-	"bodyClass": "blog",
+	"cl" : {
+		"body": "blog"
+	},
 	"latest-posts" : [
 		{
 			"img": {
