@@ -62,8 +62,8 @@
   ],
   "colors" : [
     {
-      "color-group": "",
-      "color-items": [
+      "color-group" : "",
+      "color-items" : [
         { "variable" : "", "color" : "#ff0000" },
         { "variable" : "", "color" : "#00ff00" },
         { "variable" : "", "color" : "#0000ff" },
@@ -78,58 +78,58 @@
   ],
   "url" : "#",
   "name" : {
-    "first": "Lacy",
-    "firsti": "L",
-    "middle": "Tommie",
-    "middlei": "T",
-    "last": "Way",
-    "lasti": "W"
+    "first" : "Lacy",
+    "firsti" : "L",
+    "middle" : "Tommie",
+    "middlei" : "T",
+    "last" : "Way",
+    "lasti" : "W"
   },
   "year" : {
-    "long": "2013",
-    "short": "13"
+    "long" : "2013",
+    "short" : "13"
   },
   "month" : {
-    "long": "February",
-    "short": "Feb",
-    "digit": "02"
+    "long" : "February",
+    "short" : "Feb",
+    "digit" : "02"
   },
   "dayofweek" : {
-    "long": "Monday",
-    "short": "Mon"
+    "long" : "Monday",
+    "short" : "Mon"
   },
   "day" : {
-    "long": "10",
-    "short": "10",
-    "ordinal": "th"
+    "long" : "10",
+    "short" : "10",
+    "ordinal" : "th"
   },
   "hour" : {
-    "long": "01",
-    "short": "1",
-    "military": "13",
-    "ampm": "pm"
+    "long" : "01",
+    "short" : "1",
+    "military" : "13",
+    "ampm" : "pm"
   },
   "minute" : {
-    "long": "20",
-    "short": "20"
+    "long" : "20",
+    "short" : "20"
   },
   "seconds" : "31",
   "author" : {
-    "first-name": "Author",
-    "last-name": "Name"
+    "first-name" : "Author",
+    "last-name" : "Name"
   },
   "hero": true,
   "emergency" : false,
   "touts" : [
-    { },
-    { },
-    { }
+    {  },
+    {  },
+    {  }
   ],
   "latest-posts" : [
-    { },
-    { },
-    { },
-    { },
-    { }
+    {  },
+    {  },
+    {  },
+    {  },
+    {  }
   ]
 }
